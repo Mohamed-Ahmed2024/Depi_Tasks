@@ -1,0 +1,14 @@
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\obj\Debug\net8.0\Linq Day 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\obj\Debug\net8.0\Linq Day 1.AssemblyInfoInputs.cache
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\obj\Debug\net8.0\Linq Day 1.AssemblyInfo.cs
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\obj\Debug\net8.0\Linq Day 1.csproj.CoreCompileInputs.cache
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\bin\Debug\net8.0\Linq Day 1.exe
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\bin\Debug\net8.0\Linq Day 1.deps.json
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\bin\Debug\net8.0\Linq Day 1.runtimeconfig.json
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\bin\Debug\net8.0\Linq Day 1.dll
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\bin\Debug\net8.0\Linq Day 1.pdb
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\obj\Debug\net8.0\Linq Day 1.dll
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\obj\Debug\net8.0\refint\Linq Day 1.dll
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\obj\Debug\net8.0\Linq Day 1.pdb
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\obj\Debug\net8.0\Linq Day 1.genruntimeconfig.cache
+D:\Depi\C#\C# .Net\Linq Day 1\Linq Day 1\obj\Debug\net8.0\ref\Linq Day 1.dll
