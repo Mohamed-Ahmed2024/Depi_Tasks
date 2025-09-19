@@ -1,0 +1,14 @@
+D:\Depi\C#\C# .Net\C#Project\C#Project\obj\Debug\net8.0\C#Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depi\C#\C# .Net\C#Project\C#Project\obj\Debug\net8.0\C#Project.AssemblyInfoInputs.cache
+D:\Depi\C#\C# .Net\C#Project\C#Project\obj\Debug\net8.0\C#Project.AssemblyInfo.cs
+D:\Depi\C#\C# .Net\C#Project\C#Project\obj\Debug\net8.0\C#Project.csproj.CoreCompileInputs.cache
+D:\Depi\C#\C# .Net\C#Project\C#Project\bin\Debug\net8.0\C#Project.exe
+D:\Depi\C#\C# .Net\C#Project\C#Project\bin\Debug\net8.0\C#Project.deps.json
+D:\Depi\C#\C# .Net\C#Project\C#Project\bin\Debug\net8.0\C#Project.runtimeconfig.json
+D:\Depi\C#\C# .Net\C#Project\C#Project\bin\Debug\net8.0\C#Project.dll
+D:\Depi\C#\C# .Net\C#Project\C#Project\bin\Debug\net8.0\C#Project.pdb
+D:\Depi\C#\C# .Net\C#Project\C#Project\obj\Debug\net8.0\C#Project.dll
+D:\Depi\C#\C# .Net\C#Project\C#Project\obj\Debug\net8.0\refint\C#Project.dll
+D:\Depi\C#\C# .Net\C#Project\C#Project\obj\Debug\net8.0\C#Project.pdb
+D:\Depi\C#\C# .Net\C#Project\C#Project\obj\Debug\net8.0\C#Project.genruntimeconfig.cache
+D:\Depi\C#\C# .Net\C#Project\C#Project\obj\Debug\net8.0\ref\C#Project.dll

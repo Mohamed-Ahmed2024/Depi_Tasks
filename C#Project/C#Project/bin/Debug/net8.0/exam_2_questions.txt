@@ -1,0 +1,16 @@
+[9/19/2025 11:07:45 AM] Question Added: Q1: Which of the following are programming languages? (10 marks)
+Type: ChooseAllQuestion
+Answers Count: 5
+---
+[9/19/2025 11:07:45 AM] Question Added: Q2: Object-oriented programming supports inheritance (5 marks)
+Type: TrueFalseQuestion
+Answers Count: 2
+---
+[9/19/2025 11:12:31 AM] Question Added: Q1: Which of the following are programming languages? (10 marks)
+Type: ChooseAllQuestion
+Answers Count: 5
+---
+[9/19/2025 11:12:31 AM] Question Added: Q2: Object-oriented programming supports inheritance (5 marks)
+Type: TrueFalseQuestion
+Answers Count: 2
+---
